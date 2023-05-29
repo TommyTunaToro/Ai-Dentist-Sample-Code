@@ -1,8 +1,8 @@
 ![](./dentist.png)
 
 <p align="center">
-  <a href="./README.md">English</a> |
-  <a href="./README_CN.md">简体中文</a>
+  <a href="./README_EN.md">English</a> |
+  <a href="./README.md">简体中文</a>
 </p>
 
 ## Ai Dentist牙科医生
@@ -27,4 +27,4 @@
 
 ## 录频地址
 
-[Bilibili]() 记得一键三连哦
+[Bilibili](https://www.bilibili.com/video/BV1mL411q7cK/) 记得一键三连哦
